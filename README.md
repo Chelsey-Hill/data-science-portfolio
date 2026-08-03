@@ -133,6 +133,7 @@ University of Georgia
 
 **Certificate in Applied Data Science**
 
+**Minor in Spanish**
 ---
 
 # 📫 Contact
