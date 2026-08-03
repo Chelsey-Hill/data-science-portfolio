@@ -128,12 +128,12 @@ An interactive stock market dashboard built with **Python, Streamlit, Pandas, an
 
 # 🎓 Education
 
-**Bachelor of Science in Statistics**  
-University of Georgia
+**University of Georgia**  
+**Bachelor of Science in Statistics**
 
-**Certificate in Applied Data Science**
+- Certificate in Applied Data Science
+- Minor in Spanish
 
-**Minor in Spanish**
 ---
 
 # 📫 Contact
