@@ -84,10 +84,6 @@ https://github.com/Chelsey-Hill/stock-market-dashboard
 
 https://chelsey105.shinyapps.io/final_project/
 
-### Preview
-
-![R Shiny Dashboard](images/r-shiny-dashboard.png)
-
 ---
 
 ## 📊 Housing Maintenance Forecasting *(Confidential Academic Project)*
