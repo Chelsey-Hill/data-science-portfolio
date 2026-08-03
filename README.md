@@ -2,7 +2,7 @@
 
 Welcome to my **Data Science Portfolio**!
 
-I recently earned my **Bachelor of Science in Statistics** with a **Certificate in Applied Data Science**. I'm passionate about using data to solve real-world problems through analytics, statistical modeling, machine learning, forecasting, and interactive data visualization.
+I recently earned a Bachelor of Science in Statistics from the University of Georgia, along with a Certificate in Applied Data Science and a Minor in Spanish. I'm passionate about using data to solve real-world problems through analytics, statistical modeling, machine learning, forecasting, and interactive data visualization.
 
 This portfolio showcases projects that demonstrate my experience with **Python, R, SQL, data visualization, predictive modeling, and exploratory data analysis**.
 
