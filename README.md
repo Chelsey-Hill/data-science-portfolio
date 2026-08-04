@@ -112,7 +112,6 @@ An end-to-end analytics project exploring the factors associated with restaurant
 **Technologies**
 - Python
 - Pandas
-- SQL
 - Plotly
 - Scikit-learn
 
