@@ -119,10 +119,12 @@ An end-to-end analytics project exploring the factors associated with restaurant
 
 ## 🐍 Python S&P 500 Stock Dashboard
 
+
 **Status:** Completed
 
 An interactive stock market dashboard built with Python, Streamlit, Pandas, and Plotly for exploring historical S&P 500 stock performance, comparing companies, analyzing technical indicators, and interacting with financial data visualizations.
 
+**[🚀 Live Dashboard](https://chelsey-sp500-stock-visualizer.streamlit.app/) | [💻 GitHub Repository](https://github.com/Chelsey-Hill/sp500-stock-visualizer)**
 ---
 
 # 🎓 Education
